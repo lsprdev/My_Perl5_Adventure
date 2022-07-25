@@ -5,3 +5,6 @@ use warnings;
 
 print("Hello World!\n");
 
+# Command line arguments
+# perl -e 'print "Hello World!\n";'
+# perl -mstrict -mwarnings -e 'print "Hello World!\n";'
